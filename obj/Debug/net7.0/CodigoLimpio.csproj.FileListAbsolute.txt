@@ -1,0 +1,15 @@
+/home/rmalanco/Cursos/CodigoLimpio/bin/Debug/net7.0/CodigoLimpio
+/home/rmalanco/Cursos/CodigoLimpio/bin/Debug/net7.0/CodigoLimpio.deps.json
+/home/rmalanco/Cursos/CodigoLimpio/bin/Debug/net7.0/CodigoLimpio.runtimeconfig.json
+/home/rmalanco/Cursos/CodigoLimpio/bin/Debug/net7.0/CodigoLimpio.dll
+/home/rmalanco/Cursos/CodigoLimpio/bin/Debug/net7.0/CodigoLimpio.pdb
+/home/rmalanco/Cursos/CodigoLimpio/obj/Debug/net7.0/CodigoLimpio.csproj.AssemblyReference.cache
+/home/rmalanco/Cursos/CodigoLimpio/obj/Debug/net7.0/CodigoLimpio.GeneratedMSBuildEditorConfig.editorconfig
+/home/rmalanco/Cursos/CodigoLimpio/obj/Debug/net7.0/CodigoLimpio.AssemblyInfoInputs.cache
+/home/rmalanco/Cursos/CodigoLimpio/obj/Debug/net7.0/CodigoLimpio.AssemblyInfo.cs
+/home/rmalanco/Cursos/CodigoLimpio/obj/Debug/net7.0/CodigoLimpio.csproj.CoreCompileInputs.cache
+/home/rmalanco/Cursos/CodigoLimpio/obj/Debug/net7.0/CodigoLimpio.dll
+/home/rmalanco/Cursos/CodigoLimpio/obj/Debug/net7.0/refint/CodigoLimpio.dll
+/home/rmalanco/Cursos/CodigoLimpio/obj/Debug/net7.0/CodigoLimpio.pdb
+/home/rmalanco/Cursos/CodigoLimpio/obj/Debug/net7.0/CodigoLimpio.genruntimeconfig.cache
+/home/rmalanco/Cursos/CodigoLimpio/obj/Debug/net7.0/ref/CodigoLimpio.dll
